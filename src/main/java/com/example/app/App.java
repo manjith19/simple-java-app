@@ -6,6 +6,6 @@ public class App {
     }
 
     public String greet() {
-        return "Hello from your Maven-built Java project!";
+        return "first java project";
     }
 }
