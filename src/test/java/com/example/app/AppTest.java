@@ -7,6 +7,6 @@ public class AppTest {
     @Test
     void greetReturnsExpectedMessage() {
         App app = new App();
-        assertEquals("Hello from your Maven-built Java project!", app.greet());
+        assertEquals("first java project", app.greet());
     }
 }
